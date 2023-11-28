@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100423793689",
+    "project_id": "bianca-duarte",
+    "storage_bucket": "bianca-duarte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100423793689:android:a9d98ceb8264a5b1a3be88",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZ1jxNiaGyV0o7Zvv0OIByfk-bEljaPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
